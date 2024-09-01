@@ -57,7 +57,7 @@
         .tech-icons img {
             transition: transform 0.3s ease-in-out;
             width: 2rem;
-            height: 2rem;           
+            height: 2rem;
         }
 
         .tech-icons img:hover {
@@ -105,7 +105,7 @@
                 <div
                     class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 flex flex-col items-center justify-center p-6 text-white project-card-content rounded-lg">
                     <h2 class="text-2xl font-bold mb-4">Portfolio Website</h2>
-                    <a href="https://github.com/your-repository"
+                    <a href="https://github.com/aftahamasena/portosena.git"
                         class="bg-white text-black px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors duration-200 ease-in-out">View
                         on GitHub</a>
                 </div>
